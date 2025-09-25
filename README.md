@@ -1,9 +1,10 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/24522089/137639182-54f6a2d1-118d-4e72-a85a-2a3f58c72e51.gif" width="30"><br>
-  <br> I'm <b>Tamim Lahmer</b> — Data Analyst | Emerging Data Scientist | Foresight Analyst 🔮<br>
+  <br> I’m <b>Tamim Lahmer</b> — 📊 Data Analyst | 🤖 Emerging Data Scientist | 🔮🌱 Foresight Analyst <br>
   <br>
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Data GIF" width="500">
+    <!-- Replace this link with your chosen GIF -->
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/octocat-flowers.gif" alt="GitHub + Flowers Animation" width="500">
  </abc>
 </h2> 
 
@@ -36,7 +37,7 @@
 - Big Data Tools (Spark, Hadoop) 💡  
 - Data Visualization & Dashboards 📊  
 
-<h2 align="left">🌍 Let's Connect:</h2>
+<h2 align="left">🌍 Let’s Connect:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tamim%20Lahmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahmer-tamim-82342a341)](https://www.linkedin.com/in/lahmer-tamim-82342a341)  
 [![YouTube Badge](https://img.shields.io/badge/-Dz.N.I%20Speak%20English-red?style=flat-square&logo=youtube&logoColor=white&link=http://www.youtube.com/@Dz.N.I.Speak.English.446)](http://www.youtube.com/@Dz.N.I.Speak.English.446)  
