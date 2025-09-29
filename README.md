@@ -1,9 +1,10 @@
-<h2 align="left">
+<h2 align="center">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/24522089/137639182-54f6a2d1-118d-4e72-a85a-2a3f58c72e51.gif" width="30"><br>
-  <br> I'm Tamim Lahmer — Data Analyst | Data Scientist| Foresight Analyst  ( Currently a Master's Student) |  📊<br>
+  <br>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><br>
+  <br> I'm <b>Tamim Lahmer</b> — 📊 Data Analyst | 🤖 Data Scientist | 🔮 Foresight Analyst (Currently a Master's Student)<br>
   <br>
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coder GIF" width="500">
+    <!-- Beautiful animated banner GIF -->
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Creative Data GIF" width="600">
  </abc>
 </h2> 
 
@@ -22,7 +23,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 📊 I'm a **Data Analyst / Data Scientist / Foresight Analyst  ( Currently a Master's Student)** passionate about **data, foresight, and AI**  
+- 📊 I'm a **Data Analyst / Data Scientist / Foresight Analyst (Currently a Master's Student)** passionate about **data, foresight, and AI**  
 - 🎥 I'm also a **YouTube Creator** sharing content at [Dz.N.I Speak English](http://www.youtube.com/@Dz.N.I.Speak.English.446)  
 - 🌍 Exploring **Foresight Analysis & Future Studies** to combine data with strategy  
 - 🚀 Always eager to collaborate on **Data Projects, Machine Learning & Forecasting**  
@@ -36,4 +37,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-@tamimlahmer00-D7008A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tamimlahmer00?igsh=MWh6NDFpNGd2NXlmOA==)](https://www.instagram.com/tamimlahmer00?igsh=MWh6NDFpNGd2NXlmOA==)  
 [![Twitter Badge](https://img.shields.io/badge/-@LhmrTmym22112-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/LhmrTmym22112)](https://x.com/LhmrTmym22112)  
 [![GitHub Badge](https://img.shields.io/badge/-Tamim%20Lahmer-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/yourusername)  
+
 
