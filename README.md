@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/24522089/137639182-54f6a2d1-118d-4e72-a85a-2a3f58c72e51.gif" width="30"><br>
-  <br> I'm Tamim Lahmer — Data Analyst | Data Scientist (Student) | Foresight Analyst 📊<br>
+  <br> I'm Tamim Lahmer — Data Analyst | Data Scientist| Foresight Analyst  ( Currently a Master's Student) |  📊<br>
   <br>
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coder GIF" width="500">
  </abc>
