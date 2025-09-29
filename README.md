@@ -22,7 +22,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 📊 I'm a **Data Analyst / Data Scientist (Student)** passionate about **data, foresight, and AI**  
+- 📊 I'm a **Data Analyst / Data Scientist / Foresight Analyst  ( Currently a Master's Student)** passionate about **data, foresight, and AI**  
 - 🎥 I'm also a **YouTube Creator** sharing content at [Dz.N.I Speak English](http://www.youtube.com/@Dz.N.I.Speak.English.446)  
 - 🌍 Exploring **Foresight Analysis & Future Studies** to combine data with strategy  
 - 🚀 Always eager to collaborate on **Data Projects, Machine Learning & Forecasting**  
