@@ -32,10 +32,10 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tamim%20Lahmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahmer-tamim-82342a341)](https://www.linkedin.com/in/lahmer-tamim-82342a341)  
-[![YouTube Badge](https://img.shields.io/badge/-Dz.N.I%20Speak%20English-red?style=flat-square&logo=youtube&logoColor=white&link=http://www.youtube.com/@Dz.N.I.Speak.English.446)](http://www.youtube.com/@Dz.N.I.Speak.English.446)  
-[![Instagram Badge](https://img.shields.io/badge/-@tamimlahmer00-D7008A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tamimlahmer00?igsh=MWh6NDFpNGd2NXlmOA==)](https://www.instagram.com/tamimlahmer00?igsh=MWh6NDFpNGd2NXlmOA==)  
-[![Twitter Badge](https://img.shields.io/badge/-@LhmrTmym22112-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/LhmrTmym22112)](https://x.com/LhmrTmym22112)  
-[![GitHub Badge](https://img.shields.io/badge/-Tamim%20Lahmer-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/yourusername)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Tamim%20Lahmer-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lahmer-tamim-82342a341)  
+[![YouTube Badge](https://img.shields.io/badge/-Dz.N.I%20Speak%20English-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Dz.N.I.Speak.English.446)  
+[![Instagram Badge](https://img.shields.io/badge/-@just.callme.tim-D7008A?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/just.callme.tim/)  
+[![Twitter Badge](https://img.shields.io/badge/-@LhmrTmym22112-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://x.com/LhmrTmym22112)  
+[![GitHub Badge](https://img.shields.io/badge/-Tamim%20Lahmer-black?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
 
 
