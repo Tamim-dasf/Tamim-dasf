@@ -1,7 +1,7 @@
 <h2 align="center">
  <abc>
   <br>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><br>
-  <br> I'm <b>Tamim Lahmer</b> — 📊 Data Analyst | 🤖 Data Scientist | 🔮 Foresight Analyst (Currently a Master's Student)<br>
+  <br> I'm <b>Tamime Lahmer</b> — 📊 Data Analyst | 🤖 Data Scientist | 🔮 Foresight Analyst (Currently a Master's Student)<br>
   <br>
     <!-- Beautiful animated banner GIF -->
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Creative Data GIF" width="600">
